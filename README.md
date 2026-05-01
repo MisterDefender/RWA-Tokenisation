@@ -16,10 +16,10 @@ A simplified Real-World Asset (RWA) tokenisation system built with Solidity smar
 │                        EVM Blockchain                           │
 │                                                                 │
 │  ┌──────────────┐    mints     ┌──────────────────┐             │
-│  │   Treasury   │ ──────────►  │    RWAToken       │             │
-│  │              │              │    (ERC-20)       │             │
-│  │  deposit()   │              │  Fractional       │             │
-│  │  withdraw()  │              │  Ownership        │             │
+│  │   Treasury   │ ──────────►  │    RWAToken       │            │
+│  │              │              │    (ERC-20)       │            │
+│  │  deposit()   │              │  Fractional       │            │
+│  │  withdraw()  │              │  Ownership        │            │
 │  │  preview()   │              └──────────────────┘             │
 │  └──────┬───────┘                                               │
 │         │ accepts                                               │
